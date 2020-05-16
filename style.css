@@ -1,0 +1,35 @@
+#Form{
+    width: 300px;
+    display: block;
+    background-color:#383983; 
+    text-align: center;
+    padding: 10px;  
+    border: solid 2px #999;
+}
+#Form > label{
+    width: 100%;
+    font-size: 20px;
+    color:#fff;
+    
+}
+.input-tarea{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.Boton_Agregar{
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 90px;
+    padding: 5px 0px;
+    font-size: 20px;
+    cursor: pointer;
+}
+#Contenedor-Tareas{
+    width: 400px;
+    min-height:200px;
+    background: #383983;
+    border: solid 2px #999;
+    margin-top: 20px;
+}
